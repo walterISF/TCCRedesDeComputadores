@@ -9,6 +9,8 @@ Este projeto foi desenvolvido para satisfazer uma situação problema da empresa
 
 > Todos os arquivos do projeto estão listados no repósitório e o arquivo principal com o projeto em si se chama `TCC-completo.docx`, contendo toda e qualquer explicação necessária para melhores esclarecimentos.
 
+Link da apresentação no Prezi [link](http://prezi.com/0lft4z8ew3wa/?utm_campaign=share&utm_medium=copy)
+
 Equipe
 
 Bruno Damasceno<br/>
