@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para satisfazer uma situação problema da empresa
 
 Equipe
 
-Bruno Damasceno
-José Inácio
-Vitor Rodrigues
+Bruno Damasceno<br/>
+José Inácio<br/>
+Vitor Rodrigues<br/>
 Walter Inácio
