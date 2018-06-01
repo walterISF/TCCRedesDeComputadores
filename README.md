@@ -6,6 +6,7 @@ Este projeto foi desenvolvido para satisfazer uma situação problema da empresa
 - `Hardware`
 - `Infra-estrutura`
 - `Segurança`
+- `Rede Lógica`
 
 > Todos os arquivos do projeto estão listados no repósitório e o arquivo principal com o projeto em si se chama `TCC-completo.docx`, contendo toda e qualquer explicação necessária para melhores esclarecimentos.
 
